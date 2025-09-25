@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Larissa Félix
 
-**`Desenvolvedora Front-End`**
+**`Estudante de Análise de Desenvolvimento de Sistemas`**
 
-Me chamo Larissa, sou natural de Fortaleza, Ceará. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e me aprofundo nos estudos de desenvolvimento Front-End. Sou apaixonada por tecnologia, design e desenvolvimento web, e estou em constante busca por aprimoramento para criar interfaces modernas, acessíveis e que proporcionem uma excelente experiência aos usuários.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante evolução na área de Dados e IA. Tenho experiência prática em Python, SQL e Java.
 
 ### 🤖 Linguagens e Tecnologias
 
